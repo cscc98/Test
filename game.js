@@ -1,1 +1,1 @@
-cc.class
+extends
